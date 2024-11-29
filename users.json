@@ -38,7 +38,7 @@
     "name": "Sophia Wilson",
     "age": 27,
     "email": "sophia.wilson@example.com",
-    "subscription": false,
+    "subscription": true,
     "type": "testing"
   },
   {
@@ -52,21 +52,21 @@
     "name": "Olivia Martinez",
     "age": 29,
     "email": "olivia.martinez@example.com",
-    "subscription": false,
+    "subscription": true,
     "type": "testing"
   },
   {
     "name": "John Rodriguez",
     "age": 28,
     "email": "john.rodriguez@example.com",
-    "subscription": true,
+    "subscription": false,
     "type": "real"
   },
   {
     "name": "Isabella Hernandez",
     "age": 26,
     "email": "isabella.hernandez@example.com",
-    "subscription": false,
+    "subscription": true,
     "type": "testing"
   }
 ]

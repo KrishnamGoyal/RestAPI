@@ -8,8 +8,8 @@ const usersData = require("./users.json");
 const connection = async () => {
   try {
     await connectDB(process.env.MONGODB_URL);
+    await User.deleteMany();
     await User.create(usersData);
-    // await mongoose.connection.dropCollection("users");
     mongoose.disconnect();
     console.log("Success");
   } catch (error) {
