@@ -1,0 +1,72 @@
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "email": "john.doe@example.com",
+    "subscription": true,
+    "type": "real"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 34,
+    "email": "jane.smith@example.com",
+    "subscription": false,
+    "type": "testing"
+  },
+  {
+    "name": "John Davis",
+    "age": 28,
+    "email": "john.davis@example.com",
+    "subscription": true,
+    "type": "real"
+  },
+  {
+    "name": "Emily Davis",
+    "age": 25,
+    "email": "emily.davis@example.com",
+    "subscription": false,
+    "type": "testing"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 30,
+    "email": "michael.brown@example.com",
+    "subscription": true,
+    "type": "real"
+  },
+  {
+    "name": "Sophia Wilson",
+    "age": 27,
+    "email": "sophia.wilson@example.com",
+    "subscription": false,
+    "type": "testing"
+  },
+  {
+    "name": "William Garcia",
+    "age": 35,
+    "email": "william.garcia@example.com",
+    "subscription": true,
+    "type": "real"
+  },
+  {
+    "name": "Olivia Martinez",
+    "age": 29,
+    "email": "olivia.martinez@example.com",
+    "subscription": false,
+    "type": "testing"
+  },
+  {
+    "name": "John Rodriguez",
+    "age": 28,
+    "email": "john.rodriguez@example.com",
+    "subscription": true,
+    "type": "real"
+  },
+  {
+    "name": "Isabella Hernandez",
+    "age": 26,
+    "email": "isabella.hernandez@example.com",
+    "subscription": false,
+    "type": "testing"
+  }
+]
